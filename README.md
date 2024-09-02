@@ -22,4 +22,4 @@
 ![](https://github-contributor-stats.vercel.app/api?username=FUJIZZ&limit=5&theme=one_dark_pro&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=FUJIZZ&icon=0&color=4)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=FUJIZZ&icon=0&color=4)](https://visitcount.itsvg.in)<img alt="GitHub" src="https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&labelColor=282c34&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dmadushadhanushka&longCache=true"/><img src="https://img.shields.io/github/stars/madushadhanushka?label=Stars" alt="stars">
