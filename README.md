@@ -22,4 +22,4 @@
 ![](https://github-contributor-stats.vercel.app/api?username=FUJIZZ&limit=5&theme=one_dark_pro&combine_all_yearly_contributions=true)
 
 ---
-![](https://komarev.com/ghpvc/?username=FUJIZZ&color=grey)
+![](https://komarev.com/ghpvc/?username=FUJIZZ&color=lightgrey)
