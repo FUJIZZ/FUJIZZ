@@ -1,10 +1,10 @@
-### ✍️ Random Dev Quote
+# ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 # 💫 About Me:
 🧑‍🎓Studying at Université Paris Cité<br>📖I am always excited to learn new things and improve myself.
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lin-leo-kai) 
 
 # 💻 Programming Languages:
